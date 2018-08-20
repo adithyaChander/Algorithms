@@ -13,7 +13,6 @@ This repository will contain on all of the Data Structures and Algorithms proble
 * Binary Search Tree
 * AVL Tree 
 * Suffix Tree 
-* Segment Tree 
 * Graphs 
 
 #### Algorithms
